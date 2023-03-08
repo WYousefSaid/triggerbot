@@ -1,0 +1,15 @@
+C:\Users\Kyo\RiderProjects\Trigger\bin\Debug\net7.0\Trigger.exe
+C:\Users\Kyo\RiderProjects\Trigger\bin\Debug\net7.0\Trigger.deps.json
+C:\Users\Kyo\RiderProjects\Trigger\bin\Debug\net7.0\Trigger.runtimeconfig.json
+C:\Users\Kyo\RiderProjects\Trigger\bin\Debug\net7.0\Trigger.dll
+C:\Users\Kyo\RiderProjects\Trigger\bin\Debug\net7.0\Trigger.pdb
+C:\Users\Kyo\RiderProjects\Trigger\obj\Debug\net7.0\Trigger.csproj.AssemblyReference.cache
+C:\Users\Kyo\RiderProjects\Trigger\obj\Debug\net7.0\Trigger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyo\RiderProjects\Trigger\obj\Debug\net7.0\Trigger.AssemblyInfoInputs.cache
+C:\Users\Kyo\RiderProjects\Trigger\obj\Debug\net7.0\Trigger.AssemblyInfo.cs
+C:\Users\Kyo\RiderProjects\Trigger\obj\Debug\net7.0\Trigger.csproj.CoreCompileInputs.cache
+C:\Users\Kyo\RiderProjects\Trigger\obj\Debug\net7.0\Trigger.dll
+C:\Users\Kyo\RiderProjects\Trigger\obj\Debug\net7.0\refint\Trigger.dll
+C:\Users\Kyo\RiderProjects\Trigger\obj\Debug\net7.0\Trigger.pdb
+C:\Users\Kyo\RiderProjects\Trigger\obj\Debug\net7.0\Trigger.genruntimeconfig.cache
+C:\Users\Kyo\RiderProjects\Trigger\obj\Debug\net7.0\ref\Trigger.dll
